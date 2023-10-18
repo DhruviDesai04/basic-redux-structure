@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung S23",
+      "color": "black",
+      "price": 55000,
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6529/6529701_sd.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apple 15pro",
+      "color": "Purple",
+      "price": 105000,
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://im.indiatimes.in/content/2023/Sep/thai-nguyen-K4roMA5BzS0-unsplash-1_650d426ce6d6f.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Oppo Reno2",
+      "color": "Gray",
+      "price": 50000,
+      "category": "Mobile",
+      "brand": "Oppo",
+      "photo": "https://www.jiomart.com/images/product/original/493838338/dummy-6-digital-o493838338-p602930551-0-202307121107.jpeg?im=Resize=(420,420)"
+    },
+    {
+      "id": 4,
+      "name": "Samsung S22 ultra",
+      "color": "Pink",
+      "price": 150000,
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/2202/gallery/in-galaxy-s22-ultra-s908-413016-sm-s908edrginu-thumb-530969112"
+    }
+  ]
+}

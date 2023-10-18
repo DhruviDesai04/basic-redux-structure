@@ -7,8 +7,10 @@ export const cartData = (data = [], action) => {
       return [action.data, ...data];
     case REMOVE_FROM_CART:
       console.log("remove called", action);
-      data.length = data.length ? data.length - 1 : [];
-      return [...data];
+      // data.length = data.length ? data.length - 1 : [];
+      // return [...data];
+      const newData = data.slice(0, -1);
+      return newData;
     case EMPTY_CART:
       console.log("EMPTY_CART called", action);
       data = [];
